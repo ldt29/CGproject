@@ -68,7 +68,7 @@ def draw_line(line):
     item_dict[item_id] = ['line', [[x0, y0], [x1, y1]], algorithm, np.array(pen_color)]
 
 
-# TODO: 以下内容均在11月修改
+
 def draw_polygon(line):
     global item_dict
     item_id = line[1]

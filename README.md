@@ -5,7 +5,7 @@
 
 使用[Python3](https://www.python.org)语言编程，实现一个绘图系统
 
-### 2.1. 实现的内容
+### 1. 实现的内容
 - 核心算法模块（各种图元的生成、编辑算法）：cg_algorithms.py
     > - 只依赖math库
     > - 见[src/cg_algorithms.py](CG_demo/cg_algorithms.py)
@@ -30,7 +30,7 @@
     > - 见[src/cg_gui.py](CG_demo/cg_gui.py)
 
 
-### 2.2. 指令文件格式
+### 2. 指令文件格式
 每行一条指令，包括：
 - 重置画布
     > ```

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 本文件只允许依赖math库
+# 本文件只依赖math库
 import math
 
 
